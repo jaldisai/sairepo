@@ -1,6 +1,0 @@
-https://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/(increse CPU on the server)
-
-
-
-using different proxy:https://www.proxysite.com/
-
